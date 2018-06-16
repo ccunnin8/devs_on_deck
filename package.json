@@ -1,0 +1,35 @@
+{
+  "name": "devsondeck",
+  "version": "1.0.0",
+  "description": "project for portfolio, bringing npm to use sass and bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccunnin8/devs_on_deck.git"
+  },
+  "keywords": [
+    "python",
+    "django",
+    "sass",
+    "bootstrap"
+  ],
+  "author": "corey cunningham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccunnin8/devs_on_deck/issues"
+  },
+  "homepage": "https://github.com/ccunnin8/devs_on_deck#readme",
+  "devDependencies": {
+    "bootstrap": "^4.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "jquery": "^1.9.1",
+    "npm": "^6.1.0",
+    "popper.js": "^1.14.3"
+  }
+}
