@@ -1,5 +1,0 @@
-@mixin media-phone {
-    @media (max-width: $phone) {
-      @content;
-    }
-}
